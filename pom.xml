@@ -22,4 +22,8 @@
       <url>https://maven.pkg.github.com/notionlabs/devops</url>
     </repository>
   </distributionManagement>
+   <properties>
+   <maven.compiler.source>6</maven.compiler.source>
+   <maven.compiler.target>1.6</maven.compiler.target>
+ </properties>
 </project>
